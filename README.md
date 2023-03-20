@@ -1,3 +1,3 @@
-# python-sqlite3
+# python-sqlite3-example
 
 VERY VERY BASIC PYTHON AND SQLITE3 EXAMPLE
